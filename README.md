@@ -1,0 +1,2 @@
+# KodluyoruzFirstRepo
+Kodluyoruz - Git Eğitimi
